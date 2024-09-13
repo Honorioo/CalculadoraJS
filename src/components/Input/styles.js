@@ -9,14 +9,14 @@ export const InputContainer = styled.div`
     align-items: center;
     justify-content: flex-end;
 
-    color: #FFFFFF;
+    color: Black;
     font-size: 24px;
     font-weight: 700;
 
 
     input {
         width: 100%;
-        height: 85px;
+        height: 100px;
         background-color: #4E60D9;
         border: 0;
         display: flex;
@@ -24,9 +24,9 @@ export const InputContainer = styled.div`
         text-align: right;
         padding: 0 10px;
 
-        font-size: 24px;
-        font-family: 'Roboto';
+        font-size: 34px;
         font-weight: 700;
         color: #FFFFFF;
+        border: 1px solid #CDCDCD;
     }
 `
